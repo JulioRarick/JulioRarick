@@ -2,7 +2,7 @@
   Júlio Rarick Lopes 
 </h1>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={JulioRarick}&theme=pink-green
+[![JulioRarick](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioRarick&hide=html&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Front-end </h2>
 
