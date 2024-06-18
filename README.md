@@ -2,6 +2,8 @@
   Júlio Rarick Lopes 
 </h1>
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={JulioRarick}&theme=pink-green
+
 <h2>Front-end </h2>
 
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
