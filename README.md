@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="55"> 
 <h1>Julio Rarick Lopes</h1>
 <h2>Full Stack Developer</h2>
-  <a href="https://www.juliorarick.tech">juliorarick.tech</a>
+  <a href="https://www.juliorarick.site">juliorarick.site</a>
   <br><br>
   
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"> &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioRarick&layout=compact&theme=dracula)   &nbsp; &nbsp;  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
